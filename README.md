@@ -1,9 +1,7 @@
 
 # Simple To-Do List
 
-A **minimal, modern To-Do List web application** built using **HTML, CSS, and JavaScript**. This project is perfect for beginners exploring **frontend development** and building interactive web apps.
-
----
+A **minimal, modern To-Do List web application** built using **HTML, CSS, and JavaScript**. 
 
 ## Features
 
